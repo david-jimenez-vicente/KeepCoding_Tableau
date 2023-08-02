@@ -1,5 +1,5 @@
 # KeepCoding_Tableau
-Repository for the Tableau &amp; Data Visualization subject project.
+Repository for the Tableau &amp; Data Visualization topic project.
 Made using one of the internet's numerous Airbnb datasets.
 I chosed a fictional international cleaning company called "Swishhh" that is looking to expand into
 Madrid.
